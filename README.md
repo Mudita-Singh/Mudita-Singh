@@ -15,4 +15,4 @@
 ---
 
 📫 *Let’s connect!*  
-[GitHub](https://github.com/Mudita-Singh) • [LinkedIn](https://www.linkedin.com/in/mudita-singh)
+[LeetCode Profile](https://leetcode.com/Mudita-Singh/) • [LinkedIn](https://www.linkedin.com/in/mudita-singh)
