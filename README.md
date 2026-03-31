@@ -3,12 +3,15 @@
 🎓 B.Tech CSE (Cyber Security & Forensics) @ UPES Dehradun
 🔐 Passionate about Cybersecurity, Open Source, and Problem Solving
 
+💡 I enjoy building projects that simplify complex concepts using technology.
+
 ---
 
-## 🚀 What I'm Currently Doing
+## 🚀 What I'm Currently Learning & Building
 
 * 🌱 Learning **Cybersecurity, Networking, and System Security**
 * 💻 Practicing **Data Structures & Algorithms**
+* 🛠️ Building projects to strengthen my development skills
 * 🌍 Started my journey in **Open Source** and actively learning to contribute
 
 ---
@@ -25,7 +28,7 @@ MySQL • MongoDB
 OOPs • DSA • Networking
 
 **Tools & Technologies:**
-Git • GitHub • Linux • VS Code 
+Git • GitHub • Linux • VS Code • React • Node.js
 
 ---
 
@@ -39,13 +42,13 @@ AI-powered tool that converts code into flowcharts and step-by-step explanations
 * 📊 Visualizes code execution for better understanding
 * 🔐 Includes authentication and session handling
 
-👉 [View Project](https://github.com/Mudita-Singh/visual_debugger)
+👉 🔗 [View Project](https://github.com/Mudita-Singh/visual_debugger)
 
 ---
 
 ## 📫 Connect With Me
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/mudita-singh)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/mudita-singh-21008430b)
 * 💻 [LeetCode](https://leetcode.com/Mudita-Singh/)
 
 ---
