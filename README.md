@@ -43,12 +43,6 @@ AI-powered tool that converts code into flowcharts and step-by-step explanations
 
 ---
 
-## 📊 GitHub Stats
-
-![Mudita's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mudita-Singh\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/mudita-singh)
