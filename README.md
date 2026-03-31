@@ -39,13 +39,15 @@ AI-powered tool that converts code into flowcharts and step-by-step explanations
 * 📊 Visualizes code execution for better understanding
 * 🔐 Includes authentication and session handling
 
-👉 [View Project] (https://github.com/Mudita-Singh/visual_debugger.git)
+👉 [View Project](https://github.com/Mudita-Singh/visual_debugger)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mudita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mudita-Singh&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Mudita's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mudita-Singh\&show_icons=true\&theme=tokyonight)
+
+---
 
 ## 📫 Connect With Me
 
