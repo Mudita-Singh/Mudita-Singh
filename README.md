@@ -1,18 +1,59 @@
 # 👋 Hey, I'm Mudita Singh!
 
-🎓 B.Tech CSE student @ UPES Dehradun  
-🔐 Specializing in Cyber Security & Forensics  
+🎓 B.Tech CSE (Cyber Security & Forensics) @ UPES Dehradun
+🔐 Passionate about Cybersecurity, Open Source, and Problem Solving
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🚀 What I'm Currently Doing
 
-- 💻 Languages: Java, C, Python  
-- 🗃️ Databases: MySQL, MongoDB  
-- 🔧 Concepts: Object-Oriented Programming (OOPs), Data Structures & Algorithms (DSA), Networking 
-- 🌐 Others: Git, GitHub, Linux Terminal, VS Code
+* 🌱 Learning **Cybersecurity, Networking, and System Security**
+* 💻 Practicing **Data Structures & Algorithms**
+* 🌍 Started my journey in **Open Source** and actively learning to contribute
 
 ---
 
-📫 *Let’s connect!*  
-[LeetCode Profile](https://leetcode.com/Mudita-Singh/) • [LinkedIn](https://www.linkedin.com/in/mudita-singh)
+## 🛠️ Tech Stack
+
+**Languages:**
+Java • Python • JavaScript
+
+**Databases:**
+MySQL • MongoDB
+
+**Core Concepts:**
+OOPs • DSA • Networking
+
+**Tools & Technologies:**
+Git • GitHub • Linux • VS Code 
+
+---
+
+## 🔥 Featured Project
+
+### 🚀 Visual Code Debugger
+
+AI-powered tool that converts code into flowcharts and step-by-step explanations
+
+* 🤖 Integrated Google Gemini API
+* 📊 Visualizes code execution for better understanding
+* 🔐 Includes authentication and session handling
+
+👉 [View Project](https://github.com/your-username/your-repo-name)
+
+---
+
+## 📊 GitHub Stats
+
+![Mudita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mudita-Singh\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/mudita-singh)
+* 💻 [LeetCode](https://leetcode.com/Mudita-Singh/)
+
+---
+
+⭐ *Always learning, building, and improving!*
