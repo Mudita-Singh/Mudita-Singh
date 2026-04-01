@@ -41,6 +41,7 @@ AI-powered tool that converts code into flowcharts and step-by-step explanations
 * 🤖 Integrated Google Gemini API
 * 📊 Visualizes code execution for better understanding
 * 🔐 Includes authentication and session handling
+* ☁️ Previously deployed on AWS
 
 👉 🔗 [View Project](https://github.com/Mudita-Singh/visual_debugger)
 
