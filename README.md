@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Mudita Singh!
 
 🎓 B.Tech CSE (Cyber Security & Forensics) @ UPES Dehradun
-🔐 Passionate about Cybersecurity, Open Source, and Problem Solving
+🔐 Passionate about Cybersecurity, Open Source & Problem Solving
 
 💡 I enjoy building projects that simplify complex concepts using technology.
 
