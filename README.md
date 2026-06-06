@@ -24,9 +24,6 @@ Java • Python • JavaScript
 **Databases:**
 MySQL • MongoDB
 
-**Core Concepts:**
-OOPs • DSA • Networking
-
 **Tools & Technologies:**
 Git • GitHub • Linux • VS Code • React • Node.js
 
