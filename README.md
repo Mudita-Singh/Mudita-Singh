@@ -5,7 +5,7 @@ B.Tech CSE (Cyber Security & Forensics) • UPES Dehradun
 </h3>
 
 <p align="center">
-Backend Developer • Cybersecurity Enthusiast • Open Source Contributor
+  Developer • Cybersecurity Enthusiast • Open Source Contributor
 </p>
 
 ---
