@@ -16,17 +16,14 @@ Backend Developer • Cybersecurity Enthusiast • Open Source Contributor
 - 💻 Regularly solving **Data Structures & Algorithms** problems
 - 🌱 Currently learning **Networking, System Security, and Scalable Backend Development**
 - 🚀 Building real-world projects with **Java, React, Node.js, Express, and MongoDB**
-- 🎯 Actively preparing for Software Engineering internships and placements
-
+  
 ---
 
 ## 🏆 Open Source
 
 - 🌟 **GirlScript Summer of Code 2026 (GSSoC'26) Contributor**
 - ✅ **10+ Pull Requests merged** across multiple open-source repositories
-- 🤝 Collaborated with maintainers on bug fixes, UI improvements, and feature enhancements
-- 💡 Passionate about building impactful software through open-source contributions
-
+  
 ---
 
 ## 📊 GitHub Stats
@@ -64,7 +61,6 @@ Backend Developer • Cybersecurity Enthusiast • Open Source Contributor
 
 ### Tools
 - Git
-- GitHub
 - Linux
 - VS Code
 
