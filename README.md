@@ -83,12 +83,6 @@ https://github.com/Mudita-Singh/visual_debugger
 
 ---
 
-### 🔐 SecureLogX *(In Progress)*
-
-A secure log analysis platform built using **Java & Spring Boot** that analyzes system logs, detects suspicious login activity, generates encrypted incident reports, and provides secure report decryption.
-
----
-
 ## 📈 GitHub Activity
 
 [![Mudita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mudita-Singh&theme=tokyo-night)](https://github.com/Mudita-Singh)
