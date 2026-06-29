@@ -42,28 +42,35 @@ B.Tech CSE (Cyber Security & Forensics) • UPES Dehradun
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python" />
+  <img src="https://skillicons.dev/icons?i=java,js,python" /><br/>
+  Java • JavaScript • Python
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" /><br/>
+  React • HTML5 • CSS3
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" /><br/>
+  Node.js • Express.js
 </p>
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i= mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br/>
+  MySQL • MongoDB
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux" /><br/>
+  Git • VS Code • Linux
 </p>
+
+---
 ---
 
 ## 🚀 Featured Projects
