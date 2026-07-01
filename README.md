@@ -12,9 +12,8 @@ B.Tech CSE (Cyber Security & Forensics) • UPES Dehradun
 
 ## 🚀 About Me
 
-- 🔐 Passionate about **Cybersecurity, Backend Development, and System Design**
+- 🔐 Passionate about **Cybersecurity and Development**
 - 💻 Regularly solving **Data Structures & Algorithms** problems
-- 🌱 Currently learning **Networking, System Security, and Scalable Backend Development**
 - 🚀 Building real-world projects with **Java, React, Node.js, Express, and MongoDB**
   
 ---
