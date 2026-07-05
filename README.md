@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Header"/>
+  <img src="assets/header.svg" width="100%" alt="Hi I'm Mudita Singh">
 </p>
 
 <h3 align="center">
