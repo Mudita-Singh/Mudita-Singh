@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mudita Singh</h1>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Header"/>
+</p>
 
 <h3 align="center">
 B.Tech CSE (Cyber Security & Forensics) • UPES Dehradun
 </h3>
 
-<p align="center">
-  Developer • Cybersecurity Enthusiast • Open Source Contributor
-</p>
-
----
 
 ## 🚀 About Me
 
