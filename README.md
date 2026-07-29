@@ -18,7 +18,7 @@ B.Tech CSE (Cyber Security & Forensics) • UPES Dehradun
 ## 🏆 Open Source
 
 - 🌟 **GirlScript Summer of Code 2026 (GSSoC'26) Contributor**
-- ✅ **10+ Pull Requests merged** across multiple open-source repositories
+- ✅ **15+ Pull Requests merged** across multiple open-source repositories
   
 ---
 
