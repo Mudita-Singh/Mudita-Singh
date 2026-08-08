@@ -70,7 +70,7 @@ B.Tech CSE (Cyber Security & Forensics) • UPES Dehradun
 ---
 ---
 ## 🚀 Featured Projects
-### 🚀 FirstCommit
+### ✨ FirstCommit
 
 AI-powered platform designed to help first-time contributors understand and contribute to open-source repositories.
 
