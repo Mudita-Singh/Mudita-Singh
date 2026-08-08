@@ -69,21 +69,30 @@ B.Tech CSE (Cyber Security & Forensics) • UPES Dehradun
 
 ---
 ---
+### 🚀 FirstCommit
 
-## 🚀 Featured Projects
+AI-powered platform designed to help first-time contributors understand and contribute to open-source repositories.
 
-### 🚀 Visual Code Debugger
+ -> **Click here to preview**
 
-AI-powered application that converts source code into interactive flowcharts and step-by-step execution explanations.
+<p align="center">
+  <a href="https://firstcommit-ten.vercel.app/">
+    <img src="./assets/firstcommit-preview.png" alt="FirstCommit Preview" width="850">
+  </a>
+</p>
 
 **Key Features**
-- 🤖 Integrated Google Gemini API
-- 📊 Visualizes code execution for better understanding
-- 🔐 User authentication and session handling
-- ☁️ Previously deployed on AWS
 
-🔗 **Repository:**  
-https://github.com/Mudita-Singh/visual_debugger
+- 🤖 AI-powered repository analysis and code explanations using **Google Gemini**
+- 🔎 RAG-based semantic code search using **Pinecone**
+- 📚 Generates an optimized **file reading order** for unfamiliar codebases
+- 🐛 AI Issue Explorer for discovering beginner-friendly GitHub issues
+- 💬 Repository Q&A for asking questions about the codebase
+- 🔐 GitHub OAuth authentication
+- ⚡ Built with **React, Node.js, Express, MongoDB, Gemini AI, and Pinecone**
+- ☁️ Deployed using **Vercel and Render**
+
+🔗 **[Repository](https://github.com/Mudita-Singh/FirstCommit)**
 
 ---
 
