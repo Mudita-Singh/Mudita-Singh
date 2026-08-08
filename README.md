@@ -73,11 +73,19 @@ B.Tech CSE (Cyber Security & Forensics) • UPES Dehradun
 
 AI-powered platform designed to help first-time contributors understand and contribute to open-source repositories.
 
- -> **Click here to preview**
+<p align="center">
+  <a href="https://firstcommit-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/✨%20LIVE%20PREVIEW%20→-3B82F6?style=for-the-badge&labelColor=1E293B" alt="Live Preview">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://firstcommit-ten.vercel.app/">
-    <img src="./assets/firstcommit-preview.png" alt="FirstCommit Preview" width="850">
+    <img
+      src="./assets/firstcommit-preview.png"
+      alt="FirstCommit Preview"
+      width="900"
+    />
   </a>
 </p>
 
