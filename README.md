@@ -29,10 +29,13 @@ B.Tech CSE (Cyber Security & Forensics) • UPES Dehradun
   <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Mudita-Singh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mudita-Singh&theme=tokyonight&hide_border=true" />
-</p>
+## 🧩 LeetCode
 
+<p align="center">
+  <a href="https://leetcode.com/u/Mudita-Singh/">
+    <img src="https://leetcard.jacoblin.cool/Mudita-Singh?theme=dark&ext=activity" />
+  </a>
+</p>
 
 ---
 ## 💻 Tech Stack
