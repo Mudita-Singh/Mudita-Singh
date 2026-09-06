@@ -69,8 +69,6 @@ B.Tech CSE (Cyber Security & Forensics) • UPES Dehradun
   <img src="https://skillicons.dev/icons?i=git,vscode,linux" /><br/>
   Git • VS Code • Linux
 </p>
-
----
 ---
 ## 🚀 Featured Projects
 ### ✨ FirstCommit
@@ -108,9 +106,9 @@ AI-powered platform designed to help first-time contributors understand and cont
 
 ---
 
-## 📈 GitHub Activity
-
-[![Mudita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mudita-Singh&theme=tokyo-night)](https://github.com/Mudita-Singh)
+<p align="center">
+  <img src="./assets/cozy_coder_animated.svg" width="900">
+</p>
 
 ---
 
