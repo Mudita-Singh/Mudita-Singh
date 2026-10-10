@@ -113,6 +113,7 @@ AI-powered platform designed to help first-time contributors understand and cont
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Mudita-Singh&label=Profile%20views&color=0e75b6&style=flat)
 ## 📫 Connect With Me
 
 <p align="center">
