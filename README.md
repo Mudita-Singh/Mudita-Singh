@@ -70,14 +70,16 @@ B.Tech CSE (Cyber Security & Forensics) • UPES Dehradun
   Git • VS Code • Linux
 </p>
 ---
+
 ## 🚀 Featured Projects
+
 ### ✨ FirstCommit
 
 AI-powered platform designed to help first-time contributors understand and contribute to open-source repositories.
 
 <p align="center">
   <a href="https://firstcommit-ten.vercel.app/">
-    <img src="https://img.shields.io/badge/✨%20LIVE%20PREVIEW%20→-3B82F6?style=for-the-badge&labelColor=1E293B" alt="Live Preview">
+    <img src="https://img.shields.io/badge/✨%20LIVE%20PREVIEW%20%E2%86%92-3B82F6?style=for-the-badge&labelColor=1E293B" alt="Live Preview">
   </a>
 </p>
 
@@ -107,11 +109,10 @@ AI-powered platform designed to help first-time contributors understand and cont
 ---
 
 <p align="center">
-  <img src="./assets/cozy_coder_animated.svg" width="900">
+  <img src="./assets/cozy_coder_animated.svg" width="900" alt="Cozy Coder Animation">
 </p>
 
 ---
-
 ## 📫 Connect With Me
 
 <p align="center">
