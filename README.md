@@ -61,7 +61,6 @@ B.Tech CSE (Cyber Security & Forensics) • UPES Dehradun
   <img src="https://skillicons.dev/icons?i=git,vscode,linux" /><br/>
   Git • VS Code • Linux
 </p>
----
 
 ## 🚀 Featured Projects
 
